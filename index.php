@@ -12,8 +12,8 @@
 				<img class = 'newappIcon' src='images/newapp-icon.png'>
 			</td>
 			<td>
-				<h1 id = "message"><?php echo "Hello World!"; ?></h1>
-				<p class='description'></p> KAISON HACUNAMATATAasdasdacachuahucaiuhciuahciuhaiuchaiuchaiucuihwaiudIBER <span class="blue">PHP Starter Application</span>.
+				<h1 id = "message"><?php echo "Welcome 2 GLL World!"; ?></h1>
+				<p class='description'></p> KAISON HACUNAMATATA<span class="blue">PHP Starter Application</span>.
 			</td>
 		</tr>
 	</table>
